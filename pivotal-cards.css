@@ -5,7 +5,7 @@
 	font-family: "Helvetica Neue", sans-serif;
 	font-size: 3.5mm;
 	padding: 10mm;
-	display: block;
+	display: inline-block;
 	margin: 14mm 5.5mm;
 	padding: 0;
 	border: 1px dotted #eee;
