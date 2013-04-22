@@ -19,10 +19,13 @@
  */
 .double-sided .backs {
 	-webkit-transform: rotate(180deg);
+	margin: 21mm 5.5mm 14mm;
 }
 
 .double-sided .backs .card {
 	float: right;
+	padding-right: 3.5mm;
+	padding-left: 0;
 }
 
 .card {
